@@ -1,0 +1,71 @@
+order_id,customer_name,dish_name,total_price,date
+1,Mario,Spaghetti Bolognese,12.99,2023-01-14
+2,Howie Feckles,Chicken Alfredo,15.99,2023-01-14
+3,Chuck Chuckson,Margherita Pizza,10.99,2023-01-14
+4,Bob Johnson,Caesar Salad,8.99,2023-01-14
+5,Alison Bobbit,Spicy Shrimp Tacos,15.99,2023-01-14
+6,Henry VIII,Chicken Stir-Fry,11.99,2023-01-14
+7,Tim Duncan,Vegetarian Pizza,13.99,2023-01-14
+8,Ed Jeffreys,Shrimp Scampi,17.99,2023-01-14
+9,Kris Kringle,Fish and Chips,14.99,2023-01-14
+10,Lenny Jenkins,Caprese Salad,9.99,2023-01-14
+11,Bob Johnson,Spaghetti Bolognese,12.99,2023-01-14
+12,Alex Boore,Chicken Alfredo,15.99,2023-01-14
+13,Fredrich Duntz,Margherita Pizza,10.99,2023-01-14
+14,Jane Seymour,Caesar Salad,8.99,2023-01-14
+15,Batman,Beef Tacos,9.99,2023-01-14
+16,Robin,Chicken Stir-Fry,11.99,2023-01-14
+17,Howie Feckles,Vegetarian Pizza,13.99,2023-01-14
+18,Severus Snape,Shrimp Scampi,17.99,2023-01-14
+19,Bob Johnson,Fish and Chips,14.99,2023-01-14
+20,Alice Brown,Caprese Salad,9.99,2023-01-14
+21,Kris Kringle,Margherita Pizza,10.99,2023-01-13
+22,Jane Smith,Greek Salad,10.99,2023-01-13
+23,Lenny Jenkins,Caesar Salad,8.99,2023-01-13
+24,Alice Brown,Beef Tacos,9.99,2023-01-13
+25,George Gambloni,Chicken Stir-Fry,11.99,2023-01-13
+26,Jane Smith,Vegetarian Pizza,13.99,2023-01-13
+27,Severus Snape,Shrimp Scampi,17.99,2023-01-13
+28,Tom Brady,Fish and Chips,14.99,2023-01-13
+29,Dorian Gray,Caprese Salad,9.99,2023-01-13
+30,Geoff Baysos,Spaghetti Bolognese,12.99,2023-01-13
+31,Batman,Chicken Alfredo,15.99,2023-01-13
+32,Alice Brown,Lemon Herb Chicken,14.99,2023-01-13
+33,Shmeelon Frusk,Veggie Lovers Pizza,13.99,2023-01-13
+34,John Doe,Chicken Parmesan,14.99,2023-01-13
+35,Abigail Schmidt,Mushroom Risotto,12.99,2023-01-13
+36,Jane Smith,Hawaiian Burger,13.99,2023-01-13
+37,Isaac Newton,Caprese Panini,11.99,2023-01-13
+38,Mary Mary Quite Contrary,Salmon Teriyaki,18.99,2023-01-13
+39,George Gambloni,Spaghetti Bolognese,12.99,2023-01-12
+40,Alice Brown,Chicken Alfredo,15.99,2023-01-12
+41,Thomas Edison,Veggie Wrap,9.99,2023-01-12
+42,Nikola Tesla,Steak Fajitas,16.99,2023-01-12
+43,Alan Turing,Margherita Pizza,10.99,2023-01-12
+44,Adam Smith,Caesar Salad,8.99,2023-01-12
+45,Benny Fables,Beef Tacos,9.99,2023-01-12
+46,Joseph Dowiger,Lemon Herb Chicken,14.99,2023-01-12
+47,Isabelle Frosh,Chicken Stir-Fry,11.99,2023-01-12
+48,Batman,Veggie Lovers Pizza,13.99,2023-01-12
+49,Babe Ruth,Shrimp Scampi,17.99,2023-01-12
+50,Thom Yorke,Fish and Chips,14.99,2023-01-11
+51,Nicholas Wah,Caprese Salad,9.99,2023-01-11
+52,Alan Turing,Margherita Pizza,10.99,2023-01-11
+53,Belinda Bobbles,Greek Salad,10.99,2023-01-11
+54,Fred Flintstone,Caesar Salad,8.99,2023-01-11
+55,Alan Moore,Beef Tacos,9.99,2023-01-11
+56,Batman,Chicken Stir-Fry,11.99,2023-01-10
+57,Jane Seymour,Vegetarian Pizza,13.99,2023-01-10
+58,Henry VIII,Shrimp Scampi,17.99,2023-01-10
+59,Felicity Fables,Fish and Chips,14.99,2023-01-10
+60,Nikola Tesla,Caprese Salad,9.99,2023-01-10
+61,Alan Oxlade,Spaghetti Bolognese,12.99,2023-01-10
+62,Alicia Spinnet,Chicken Alfredo,15.99,2023-01-10
+63,Mario,Margherita Pizza,10.99,2023-01-10
+64,Luigi,Caesar Salad,8.99,2023-01-10
+65,John Dope,Beef Tacos,9.99,2023-01-09
+66,Luigi,Chicken Stir-Fry,11.99,2023-01-09
+67,Batman,Vegetarian Pizza,13.99,2023-01-09
+68,Kris Kringle,Shrimp Scampi,17.99,2023-01-09
+69,Jordy Nelson,Fish and Chips,14.99,2023-01-09
+70,Bob Shmarley,Caprese Salad,9.99,2023-01-09
